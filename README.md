@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am a Full-Stack Web Developer and computer scientist, and recent graduate from class of ‘23!
+
+[![streak](https://codeium.com/badges/v2/user/haydenmarshall65/streak)](https://codeium.com/profile/haydenmarshall65)
 <!--
 **haydenmarshall65/haydenmarshall65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
