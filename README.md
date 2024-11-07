@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Full-Stack Web Developer and computer scientist, and recent graduate from class of ‘23!
+I am a Full-Stack Web Developer, knowledgeable in Node, Laravel, Deno, Vue, and many more web development libraries and frameworks!
 
 [![autocomplete](https://codeium.com/badges/user/haydenmarshall65/autocomplete)](https://codeium.com/profile/haydenmarshall65)
 <!--
