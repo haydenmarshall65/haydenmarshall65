@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-I am a Full-Stack Web Developer, knowledgeable in Node, Laravel, Deno, Vue, and many more web development libraries and frameworks!
+I am a Full-Stack Web Developer, knowledgeable in Node, Laravel, Deno, Vue, and many more web development libraries and frameworks! I also have experience in Java, Go, Python, and more languages!
+
+I am currently learning:
+- C#
+- AWS (Cloud Practitioner Certification)
 <!--
 **haydenmarshall65/haydenmarshall65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
