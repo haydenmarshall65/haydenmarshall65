@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 I am a Full-Stack Web Developer, knowledgeable in Node, Laravel, Deno, Vue, and many more web development libraries and frameworks!
-
-[![autocomplete](https://codeium.com/badges/user/haydenmarshall65/autocomplete)](https://codeium.com/profile/haydenmarshall65)
 <!--
 **haydenmarshall65/haydenmarshall65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
